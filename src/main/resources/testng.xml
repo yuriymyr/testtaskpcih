@@ -1,0 +1,8 @@
+<suite name="Automation Suite" parallel="false">
+    <test name="Web Tests">
+        <classes>
+            <class name="tests.api.ApiTests"/>
+            <class name="tests.ui.ExampleUITests"/>
+        </classes>
+    </test>
+</suite>
